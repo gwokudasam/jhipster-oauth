@@ -1,0 +1,27 @@
+{
+  "generator-jhipster": {
+    "jhipsterVersion": "4.0.8",
+    "baseName": "uaa",
+    "packageName": "com.capgemini.jhipsteroauth",
+    "packageFolder": "com/capgemini/jhipsteroauth",
+    "serverPort": "9999",
+    "authenticationType": "uaa",
+    "hibernateCache": "no",
+    "clusteredHttpSession": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "gradle",
+    "enableSocialSignIn": false,
+    "enableTranslation": false,
+    "applicationType": "uaa",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "skipClient": true,
+    "clientPackageManager": "npm"
+  }
+}
